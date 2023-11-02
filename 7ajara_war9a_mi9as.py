@@ -4,7 +4,7 @@
 import random 
 user_point=0
 pc_point=0
-options=["hajra","war9a","mi9as"]
+options=["hajra","war9a", "mi9as"]
 # options = [0, 1, 2]
 
 while True:
